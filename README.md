@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sajeev-68
 - 👀 I’m interested in Cyber-Security
-- 🌱 I’m currently learning Malware-anaalysis
+- 🌱 I’m currently learning Malware-analysis
 
 <!---
 sajeev-68/sajeev-68 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
